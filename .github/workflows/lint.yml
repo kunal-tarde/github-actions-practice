@@ -1,0 +1,3 @@
+# what is the goal of your workflow
+# whenever someone changes the python code, etc
+# the linter will check if the syntax, format, indentation (Linting) is correct or not.
